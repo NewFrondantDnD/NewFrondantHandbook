@@ -20,21 +20,21 @@ Roulef most recently developed a retractable blade module that allows him to ext
 
 ### Effects
 
-Repeating Crossbow (Crossbow Expert, Level 1)
-    Coronacht is a specially-made repeating crossbow, allowing Roulef to:
-    - Fire two shots at once
-    - Ignore the loading property of crossbows
-    - Prevent disadvantage when used at melee range.
+**Repeating Crossbow (Crossbow Expert, Level 1):** 
+Coronacht is a specially-made repeating crossbow, allowing Roulef to:
+- Fire two shots at once
+- Ignore the loading property of crossbows
+- Prevent disadvantage when used at melee range.
 
-Custom Build (Fighting Style: Archery, Level 1)
-    Coronacht is custom-built for Roulef, giving him +2 to attack rolls.
+**Custom Build (Fighting Style: Archery, Level 1):** 
+Coronacht is custom-built for Roulef, giving him +2 to attack rolls.
 
-Healing Injection (Second Wind, Level 1)
-    Coronacht has a modification that injects Roulef with healing drugs, healing him for 1d10+2 HP as a bonus action. He must refill it during a short rest after each use.
+**Healing Injection (Second Wind, Level 1):** 
+Coronacht has a modification that injects Roulef with healing drugs, healing him for 1d10+2 HP as a bonus action. He must refill it during a short rest after each use.
 
-Rapid-Fire (Action Surge, Level 2)
-    Coronacht has a barrel that stores extra arrows, allowing Roulef to fire even more shots at once. He must reload it during a short rest after each use.
+**Rapid-Fire (Action Surge, Level 2):** 
+Coronacht has a barrel that stores extra arrows, allowing Roulef to fire even more shots at once. He must reload it during a short rest after each use.
 
-Grappling Hook, CURRENTLY UNDER REPAIR
-    Roulef is currently developing a module that allows him to shoot out a grappling hook from an attachment on the crossbow's right side.
+**Grappling Hook (CURRENTLY UNDER REPAIR):** 
+Roulef is currently developing a module that allows him to shoot out a grappling hook from an attachment on the crossbow's right side.
 
