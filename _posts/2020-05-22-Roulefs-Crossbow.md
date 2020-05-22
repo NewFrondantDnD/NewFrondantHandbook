@@ -21,10 +21,7 @@ Roulef most recently developed a retractable blade module that allows him to ext
 ### Effects
 
 **Repeating Crossbow (Crossbow Expert, Level 1):** 
-Coronacht is a specially-made repeating crossbow, allowing Roulef to:
-- Fire two shots at once
-- Ignore the loading property of crossbows
-- Prevent disadvantage when used at melee range.
+Coronacht is a specially-made repeating crossbow, allowing Roulef to fire two shots at once, ignore the loading property of crossbows, and prevent disadvantage when used at melee range.
 
 **Custom Build (Fighting Style: Archery, Level 1):** 
 Coronacht is custom-built for Roulef, giving him +2 to attack rolls.
