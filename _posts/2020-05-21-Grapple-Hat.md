@@ -2,7 +2,7 @@
 layout: post
 title:  "Hat of Grappling"
 date:   2020-05-21
-excerpt: "A misnamed hat."
+excerpt: "Peculiar hat that grants 'Monstrous Energy'."
 image: /images/grapplehat.png
 tag:
 - artifacts 

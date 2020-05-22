@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Claire's Parrying Dagger"
-date:   2020-05-22
-excerpt: "A gold-tipped dagger, designed to kill vampires."
+date:   2020-05-21
+excerpt: "Gold-tipped dagger, designed to kill vampires."
 image: /images/clairedagger.png
 tag:
 - artifacts 
