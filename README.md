@@ -1,2 +1,3 @@
-# NewFrondantHandbook
-Handbook consisting of various people and items found in Ben's DnD campaign.
+# New Frondant Handbook
+  
+Lore handbook for Ben's DnD sessions, made with [Halve](http://taylantatli.github.io/Halve).
