@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Coronacht, Roulef's Crossbow"
+title:  "Coronacht"
 date:   2020-05-22
-excerpt: "An ornate, repeating crossbow."
+excerpt: "Roulef's repeating crossbow."
 image: /images/coronacht.png
 tag:
 - artifacts 
