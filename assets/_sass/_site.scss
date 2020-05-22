@@ -512,7 +512,7 @@ canvas {
     }
   }
   .tags li > a {
-    color: darken($white, 28%);
+    color: lighten($black, 28%);
   }
 }
 
@@ -598,8 +598,8 @@ canvas {
   }
   .tags > li {
     background: none;
-    border: 1px solid rgba($white, 0.4);
-    color: $white;
+    border: 1px solid rgba($black, 0.4);
+    color: $black;
     font-size: 15px;
   }
   .section-line {
