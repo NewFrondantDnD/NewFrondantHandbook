@@ -5,7 +5,7 @@ date:   2020-05-21
 excerpt: "Roulef's repeating crossbow."
 image: /images/coronacht.png
 tag:
-- artifacts 
+- Artifact 
 ---
 
 ## Coronacht, Roulef's Crossbow

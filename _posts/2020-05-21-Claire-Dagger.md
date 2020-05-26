@@ -5,7 +5,7 @@ date:   2020-05-21
 excerpt: "Gold-tipped dagger, designed to kill vampires."
 image: /images/clairedagger.png
 tag:
-- artifacts 
+- Artifact 
 ---
 
 ## Claire's Parrying Dagger

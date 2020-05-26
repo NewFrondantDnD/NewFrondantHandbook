@@ -5,7 +5,7 @@ date:   2020-05-21
 excerpt: "Peculiar hat that grants 'Monstrous Energy'."
 image: /images/grapplehat.png
 tag:
-- artifacts 
+- Artifact 
 ---
 
 ## Hat of Grappling

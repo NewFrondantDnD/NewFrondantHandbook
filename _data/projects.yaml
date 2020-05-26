@@ -1,29 +1,29 @@
 - title: Places
-  url: https://newfrondantdnd.github.io/NewFrondantHandbook/tags.html#places
+  url: https://newfrondantdnd.github.io/NewFrondantHandbook/tags.html#Place
   image: /images/worldSplash.png
   completed: true
 
 - title: Monsters
-  url: https://newfrondantdnd.github.io/NewFrondantHandbook/tags.html#monsters
+  url: https://newfrondantdnd.github.io/NewFrondantHandbook/tags.html#Monster
   image: /images/monsterSplash.png?raw=true
   completed: true
 
 - title: Players
-  url: https://newfrondantdnd.github.io/NewFrondantHandbook/tags.html#player
+  url: https://newfrondantdnd.github.io/NewFrondantHandbook/tags.html#Player
   image: /images/playerSplash.png
   completed: true
 
 - title: NPCs
-  url: https://newfrondantdnd.github.io/NewFrondantHandbook/tags.html#npc
+  url: https://newfrondantdnd.github.io/NewFrondantHandbook/tags.html#NPC
   image: /images/npcSplash.png
   completed: false
 
 - title: Gods
-  url: https://newfrondantdnd.github.io/NewFrondantHandbook/tags.html#gods
+  url: https://newfrondantdnd.github.io/NewFrondantHandbook/tags.html#God
   image: /images/immSplash.png
   completed: true
 
 - title: Artifacts
-  url: https://newfrondantdnd.github.io/NewFrondantHandbook/tags.html#artifacts
+  url: https://newfrondantdnd.github.io/NewFrondantHandbook/tags.html#Artifact
   image: /images/worldSplash.png
   completed: true
