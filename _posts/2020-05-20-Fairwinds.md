@@ -5,7 +5,7 @@ date: 2020-05-20
 excerpt: "Frondant's port city."
 image: /images/emblemPic.png
 tag:
-- Places
+- Place
 ---
 
 ## Fairwinds
